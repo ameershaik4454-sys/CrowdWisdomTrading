@@ -1,0 +1,3668 @@
+[{
+  "type": "tweet",
+  "id": "2107973369861919008",
+  "url": "https://x.com/BitcoinArchive/status/2107973369861919008",
+  "twitterUrl": "https://twitter.com/BitcoinArchive/status/2107973369861919008",
+  "text": "0.21 Bitcoin places you among the top 5% of holders.\n\nOnly 100M people can ever achieve that goal.\n\nThat’s just 1.2% of the world’s population. https://t.co/ehzpYnazi4",
+  "fullText": "0.21 Bitcoin places you among the top 5% of holders.\n\nOnly 100M people can ever achieve that goal.\n\nThat’s just 1.2% of the world’s population. https://t.co/ehzpYnazi4",
+  "source": "",
+  "retweetCount": 373,
+  "replyCount": 89,
+  "likeCount": 2554,
+  "quoteCount": 40,
+  "viewCount": 196174,
+  "createdAt": "Wed Oct 07 23:16:30 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 255,
+  "isReply": false,
+  "conversationId": "2107973369861919008",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "BitcoinArchive",
+    "url": "https://x.com/BitcoinArchive",
+    "twitterUrl": "https://twitter.com/BitcoinArchive",
+    "id": "970994516357472257",
+    "name": "Bitcoin Archive",
+    "isVerified": false,
+    "verifiedType": "Business",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1988731421440057344/K5XjVEkh_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/970994516357472257/1790588474",
+    "description": "Bitcoin News, Insight, & Analysis 🗄️ 🚀 🌙 \n\n📺 YOUTUBE: https://t.co/mVGviKErxq",
+    "location": "Bitcoin.Archive.Channel@gmail",
+    "followers": 1798942,
+    "following": 1046,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Mar 06 12:08:27 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "bit.ly/BitcoinArchive…",
+            "expanded_url": "https://bit.ly/BitcoinArchiveYT",
+            "indices": [
+              54,
+              77
+            ],
+            "url": "https://t.co/mVGviKErxq"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bitcoinarchive.co",
+            "expanded_url": "http://bitcoinarchive.co",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/HC6I5K6H2V"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 194849,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 13217,
+    "statusesCount": 56437,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2093364456558322005"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/ehzpYnazi4",
+        "expanded_url": "https://x.com/BitcoinArchive/status/2107973369861919008/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 386,
+                "w": 386,
+                "x": 592,
+                "y": 83
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 386,
+                "w": 386,
+                "x": 592,
+                "y": 83
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 386,
+                "w": 386,
+                "x": 592,
+                "y": 83
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 256,
+                "w": 256,
+                "x": 393,
+                "y": 55
+              }
+            ]
+          }
+        },
+        "id_str": "2107971700646125568",
+        "indices": [
+          144,
+          167
+        ],
+        "media_key": "3_2107971700646125568",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107971700646125568"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUEFF92WoAAMEhQ.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 765,
+              "w": 765,
+              "x": 259,
+              "y": 0
+            },
+            {
+              "h": 765,
+              "w": 671,
+              "x": 353,
+              "y": 0
+            },
+            {
+              "h": 765,
+              "w": 383,
+              "x": 602,
+              "y": 0
+            },
+            {
+              "h": 765,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 765,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 765,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 765,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 508,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/ehzpYnazi4"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/ehzpYnazi4",
+        "expanded_url": "https://x.com/BitcoinArchive/status/2107973369861919008/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 386,
+                "w": 386,
+                "x": 592,
+                "y": 83
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 386,
+                "w": 386,
+                "x": 592,
+                "y": 83
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 386,
+                "w": 386,
+                "x": 592,
+                "y": 83
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 256,
+                "w": 256,
+                "x": 393,
+                "y": 55
+              }
+            ]
+          }
+        },
+        "id_str": "2107971700646125568",
+        "indices": [
+          144,
+          167
+        ],
+        "media_key": "3_2107971700646125568",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107971700646125568"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUEFF92WoAAMEhQ.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 765,
+              "w": 765,
+              "x": 259,
+              "y": 0
+            },
+            {
+              "h": 765,
+              "w": 671,
+              "x": 353,
+              "y": 0
+            },
+            {
+              "h": 765,
+              "w": 383,
+              "x": 602,
+              "y": 0
+            },
+            {
+              "h": 765,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 765,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 765,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 765,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 508,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/ehzpYnazi4"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HUEFF92WoAAMEhQ.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2107952928669528468",
+  "url": "https://x.com/BitcoinMagazine/status/2107952928669528468",
+  "twitterUrl": "https://twitter.com/BitcoinMagazine/status/2107952928669528468",
+  "text": "JUST IN: The supply of Bitcoin available on exchanges has declined to its lowest level in 7 months. 👀\n\nBTC is becoming more scarce, plan accordingly! 🚀 https://t.co/ZT8ZVtS8YS",
+  "fullText": "JUST IN: The supply of Bitcoin available on exchanges has declined to its lowest level in 7 months. 👀\n\nBTC is becoming more scarce, plan accordingly! 🚀 https://t.co/ZT8ZVtS8YS",
+  "source": "",
+  "retweetCount": 375,
+  "replyCount": 153,
+  "likeCount": 2665,
+  "quoteCount": 48,
+  "viewCount": 148121,
+  "createdAt": "Wed Oct 07 21:55:16 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 74,
+  "isReply": false,
+  "conversationId": "2107952928669528468",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "BitcoinMagazine",
+    "url": "https://x.com/BitcoinMagazine",
+    "twitterUrl": "https://twitter.com/BitcoinMagazine",
+    "id": "361289499",
+    "name": "Bitcoin Magazine",
+    "isVerified": false,
+    "verifiedType": "Business",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/361289499/1792528370",
+    "description": "The Most Trusted Voice In #Bitcoin 🟠 • Find us https://t.co/X4mXn4fvYQ",
+    "location": "Nashville, TN",
+    "followers": 4509476,
+    "following": 1241,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 24 15:14:54 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/btcinc",
+            "expanded_url": "http://linktr.ee/btcinc",
+            "indices": [
+              47,
+              70
+            ],
+            "url": "https://t.co/X4mXn4fvYQ"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "BitcoinMagazine.com",
+            "expanded_url": "http://BitcoinMagazine.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/UPj0DCrpdu"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 45892,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 20840,
+    "statusesCount": 46103,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2113625700553134245"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 580,
+          "name": "Media & News Company"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1539690895368388612"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/ZT8ZVtS8YS",
+        "expanded_url": "https://x.com/BitcoinMagazine/status/2107952928669528468/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "CoinGlass",
+                "screen_name": "coinglass_com",
+                "type": "user",
+                "user_id": "1169095068164050945"
+              }
+            ]
+          },
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2107950655448989697",
+        "indices": [
+          152,
+          175
+        ],
+        "media_key": "3_2107950655448989697",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107950655448989697"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUDx8-YWwAEOc_1.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 742,
+              "w": 1325,
+              "x": 95,
+              "y": 0
+            },
+            {
+              "h": 742,
+              "w": 742,
+              "x": 678,
+              "y": 0
+            },
+            {
+              "h": 742,
+              "w": 651,
+              "x": 769,
+              "y": 0
+            },
+            {
+              "h": 742,
+              "w": 371,
+              "x": 1049,
+              "y": 0
+            },
+            {
+              "h": 742,
+              "w": 1420,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 742,
+          "width": 1420
+        },
+        "sizes": {
+          "large": {
+            "h": 742,
+            "resize": "fit",
+            "w": 1420
+          },
+          "medium": {
+            "h": 627,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 355,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/ZT8ZVtS8YS"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/ZT8ZVtS8YS",
+        "expanded_url": "https://x.com/BitcoinMagazine/status/2107952928669528468/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "CoinGlass",
+                "screen_name": "coinglass_com",
+                "type": "user",
+                "user_id": "1169095068164050945"
+              }
+            ]
+          },
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2107950655448989697",
+        "indices": [
+          152,
+          175
+        ],
+        "media_key": "3_2107950655448989697",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107950655448989697"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUDx8-YWwAEOc_1.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 742,
+              "w": 1325,
+              "x": 95,
+              "y": 0
+            },
+            {
+              "h": 742,
+              "w": 742,
+              "x": 678,
+              "y": 0
+            },
+            {
+              "h": 742,
+              "w": 651,
+              "x": 769,
+              "y": 0
+            },
+            {
+              "h": 742,
+              "w": 371,
+              "x": 1049,
+              "y": 0
+            },
+            {
+              "h": 742,
+              "w": 1420,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 742,
+          "width": 1420
+        },
+        "sizes": {
+          "large": {
+            "h": 742,
+            "resize": "fit",
+            "w": 1420
+          },
+          "medium": {
+            "h": 627,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 355,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/ZT8ZVtS8YS"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HUDx8-YWwAEOc_1.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2107920765609812136",
+  "url": "https://x.com/saylor/status/2107920765609812136",
+  "twitterUrl": "https://twitter.com/saylor/status/2107920765609812136",
+  "text": "Bitcoin. Don’t leave home without it. https://t.co/QieNmFMUzU",
+  "fullText": "Bitcoin. Don’t leave home without it. https://t.co/QieNmFMUzU",
+  "source": "",
+  "retweetCount": 477,
+  "replyCount": 383,
+  "likeCount": 5306,
+  "quoteCount": 33,
+  "viewCount": 321538,
+  "createdAt": "Wed Oct 07 19:47:28 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 88,
+  "isReply": false,
+  "conversationId": "2107920765609812136",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "saylor",
+    "url": "https://x.com/saylor",
+    "twitterUrl": "https://twitter.com/saylor",
+    "id": "244647486",
+    "name": "Michael Saylor",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1485632175932383235/8t0DGo6V_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/244647486/1738781752",
+    "description": "Bitcoin is https://t.co/KbbYe74DgB | $BTC Hodler | @Strategy Founder & Chairman | bio https://t.co/9Zlq0oHYnP | free education https://t.co/4L1s0ix7FE | $MSTR $STRC",
+    "location": "Miami Beach, FL",
+    "followers": 5216112,
+    "following": 800,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 29 20:11:04 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Hope.com",
+            "expanded_url": "http://Hope.com",
+            "indices": [
+              11,
+              34
+            ],
+            "url": "https://t.co/KbbYe74DgB"
+          },
+          {
+            "display_url": "michael.com",
+            "expanded_url": "http://michael.com",
+            "indices": [
+              86,
+              109
+            ],
+            "url": "https://t.co/9Zlq0oHYnP"
+          },
+          {
+            "display_url": "saylor.org",
+            "expanded_url": "http://saylor.org",
+            "indices": [
+              127,
+              150
+            ],
+            "url": "https://t.co/4L1s0ix7FE"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "strategy.com",
+            "expanded_url": "https://strategy.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/jJRaLeilaf"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13300,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2338,
+    "statusesCount": 8543,
+    "affiliatesHighlightedLabel": {
+      "label": {
+        "badge": {
+          "url": "https://pbs.twimg.com/profile_images/1934639177988988928/2vBrUjDh_bigger.png"
+        },
+        "description": "Strategy",
+        "url": {
+          "url": "https://twitter.com/Strategy",
+          "urlType": "DeepLink"
+        },
+        "userLabelDisplayType": "Badge",
+        "userLabelType": "BusinessLabel"
+      }
+    },
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2040438683380146574"
+    ],
+    "professional": {
+      "category": [],
+      "professional_type": "Creator",
+      "rest_id": "1624566238436376577"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "affiliates_highlighted_label": {
+                  "label": {
+                    "badge": {
+                      "url": "https://pbs.twimg.com/profile_images/1934639177988988928/2vBrUjDh_bigger.png"
+                    },
+                    "description": "Strategy",
+                    "url": {
+                      "url": "https://twitter.com/Strategy",
+                      "urlType": "DeepLink"
+                    },
+                    "userLabelDisplayType": "Badge",
+                    "userLabelType": "BusinessLabel"
+                  }
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1874089904873091072/aesRsnxp_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Thu May 20 11:39:31 +0000 2021",
+                  "name": "LaDoger 🟧",
+                  "screen_name": "LaDoger"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "id": "VXNlcjoxMzk1MzQzMTMxNjU1MTE0NzU2",
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "@Strategy • $BTC • $MSTR • $STRC • @saylor",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "ladoger.si",
+                          "expanded_url": "http://ladoger.si",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/uPQ6RcdetR"
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 70207,
+                  "follow_request_sent": false,
+                  "followers_count": 20113,
+                  "friends_count": 3982,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 146,
+                  "media_count": 6748,
+                  "needs_phone_verification": false,
+                  "normal_followers_count": 20113,
+                  "notifications": false,
+                  "pinned_tweet_ids_str": [
+                    "2111116333886951606"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395343131655114756/1752726836",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 26461,
+                  "time_zone": "",
+                  "translator_type": "none",
+                  "url": "https://t.co/uPQ6RcdetR",
+                  "utc_offset": 0,
+                  "want_retweets": false,
+                  "withheld_description": "",
+                  "withheld_scope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "privacy": {
+                  "protected": false
+                },
+                "professional": {
+                  "category": [],
+                  "professional_type": "Business",
+                  "rest_id": "1545088357255983105"
+                },
+                "profile_bio": {
+                  "description": "@Strategy • $BTC • $MSTR • $STRC • @saylor"
+                },
+                "profile_image_shape": "Circle",
+                "relationship_perspectives": {
+                  "blocked_by": false,
+                  "blocking": false,
+                  "followed_by": false,
+                  "following": false,
+                  "muting": false
+                },
+                "rest_id": "1395343131655114756",
+                "super_follow_eligible": true,
+                "super_followed_by": false,
+                "super_following": false,
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          }
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/QieNmFMUzU",
+        "expanded_url": "https://x.com/LaDoger/status/2107871032468206005/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2107870994954158080",
+        "indices": [
+          38,
+          61
+        ],
+        "media_key": "13_2107870994954158080",
+        "media_results": {
+          "result": {
+            "media_key": "13_2107870994954158080"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2107870994954158080/img/gL3Z6ukr8bnGhlxz.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1080,
+          "width": 1440
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1440
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id_str": "2107871032468206005",
+        "source_user_id_str": "1395343131655114756",
+        "type": "video",
+        "url": "https://t.co/QieNmFMUzU",
+        "video_info": {
+          "aspect_ratio": [
+            4,
+            3
+          ],
+          "duration_millis": 21041,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2107870994954158080/pl/_DlUQdtUSe-wu4P2.m3u8?tag=29"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/360x270/5Yoegy8z8bcEpN04.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/480x360/EsAd9jDmulaVGVex.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/960x720/lSS-7Bu6e37x5wRj.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/1440x1080/gzB0IbG9Djwj8dN9.mp4?tag=29"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {
+    "rest_id": "https://t.co/QieNmFMUzU"
+  },
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "affiliates_highlighted_label": {
+                  "label": {
+                    "badge": {
+                      "url": "https://pbs.twimg.com/profile_images/1934639177988988928/2vBrUjDh_bigger.png"
+                    },
+                    "description": "Strategy",
+                    "url": {
+                      "url": "https://twitter.com/Strategy",
+                      "urlType": "DeepLink"
+                    },
+                    "userLabelDisplayType": "Badge",
+                    "userLabelType": "BusinessLabel"
+                  }
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1874089904873091072/aesRsnxp_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Thu May 20 11:39:31 +0000 2021",
+                  "name": "LaDoger 🟧",
+                  "screen_name": "LaDoger"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "id": "VXNlcjoxMzk1MzQzMTMxNjU1MTE0NzU2",
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "@Strategy • $BTC • $MSTR • $STRC • @saylor",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "ladoger.si",
+                          "expanded_url": "http://ladoger.si",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/uPQ6RcdetR"
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 70207,
+                  "follow_request_sent": false,
+                  "followers_count": 20113,
+                  "friends_count": 3982,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 146,
+                  "media_count": 6748,
+                  "needs_phone_verification": false,
+                  "normal_followers_count": 20113,
+                  "notifications": false,
+                  "pinned_tweet_ids_str": [
+                    "2111116333886951606"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395343131655114756/1752726836",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 26461,
+                  "time_zone": "",
+                  "translator_type": "none",
+                  "url": "https://t.co/uPQ6RcdetR",
+                  "utc_offset": 0,
+                  "want_retweets": false,
+                  "withheld_description": "",
+                  "withheld_scope": ""
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "privacy": {
+                  "protected": false
+                },
+                "professional": {
+                  "category": [],
+                  "professional_type": "Business",
+                  "rest_id": "1545088357255983105"
+                },
+                "profile_bio": {
+                  "description": "@Strategy • $BTC • $MSTR • $STRC • @saylor"
+                },
+                "profile_image_shape": "Circle",
+                "relationship_perspectives": {
+                  "blocked_by": false,
+                  "blocking": false,
+                  "followed_by": false,
+                  "following": false,
+                  "muting": false
+                },
+                "rest_id": "1395343131655114756",
+                "super_follow_eligible": true,
+                "super_followed_by": false,
+                "super_following": false,
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          }
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/QieNmFMUzU",
+        "expanded_url": "https://x.com/LaDoger/status/2107871032468206005/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2107870994954158080",
+        "indices": [
+          38,
+          61
+        ],
+        "media_key": "13_2107870994954158080",
+        "media_results": {
+          "result": {
+            "media_key": "13_2107870994954158080"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2107870994954158080/img/gL3Z6ukr8bnGhlxz.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1080,
+          "width": 1440
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1440
+          },
+          "medium": {
+            "h": 900,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id_str": "2107871032468206005",
+        "source_user_id_str": "1395343131655114756",
+        "type": "video",
+        "url": "https://t.co/QieNmFMUzU",
+        "video_info": {
+          "aspect_ratio": [
+            4,
+            3
+          ],
+          "duration_millis": 21041,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2107870994954158080/pl/_DlUQdtUSe-wu4P2.m3u8?tag=29"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/360x270/5Yoegy8z8bcEpN04.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/480x360/EsAd9jDmulaVGVex.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/960x720/lSS-7Bu6e37x5wRj.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/1440x1080/gzB0IbG9Djwj8dN9.mp4?tag=29"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2107870994954158080/img/gL3Z6ukr8bnGhlxz.jpg"
+  ],
+  "videos": [
+    {
+      "durationMillis": 21041,
+      "aspectRatio": [
+        4,
+        3
+      ],
+      "variants": [
+        {
+          "contentType": "application/x-mpegURL",
+          "url": "https://video.twimg.com/amplify_video/2107870994954158080/pl/_DlUQdtUSe-wu4P2.m3u8?tag=29"
+        },
+        {
+          "bitrate": 256000,
+          "contentType": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/360x270/5Yoegy8z8bcEpN04.mp4?tag=29"
+        },
+        {
+          "bitrate": 832000,
+          "contentType": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/480x360/EsAd9jDmulaVGVex.mp4?tag=29"
+        },
+        {
+          "bitrate": 2176000,
+          "contentType": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/960x720/lSS-7Bu6e37x5wRj.mp4?tag=29"
+        },
+        {
+          "bitrate": 10368000,
+          "contentType": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2107870994954158080/vid/avc1/1440x1080/gzB0IbG9Djwj8dN9.mp4?tag=29"
+        }
+      ]
+    }
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2107906745603620968",
+  "url": "https://x.com/BitcoinMagazine/status/2107906745603620968",
+  "twitterUrl": "https://twitter.com/BitcoinMagazine/status/2107906745603620968",
+  "text": "JUST IN: $13 trillion Charles Schwab says 64% of Millennials plan to buy Bitcoin &amp; crypto 👀\n\nBullish! 🚀 https://t.co/41YlJW2GOb",
+  "fullText": "JUST IN: $13 trillion Charles Schwab says 64% of Millennials plan to buy Bitcoin &amp; crypto 👀\n\nBullish! 🚀 https://t.co/41YlJW2GOb",
+  "source": "",
+  "retweetCount": 288,
+  "replyCount": 97,
+  "likeCount": 2346,
+  "quoteCount": 19,
+  "viewCount": 138817,
+  "createdAt": "Wed Oct 07 18:51:45 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 46,
+  "isReply": false,
+  "conversationId": "2107906745603620968",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "BitcoinMagazine",
+    "url": "https://x.com/BitcoinMagazine",
+    "twitterUrl": "https://twitter.com/BitcoinMagazine",
+    "id": "361289499",
+    "name": "Bitcoin Magazine",
+    "isVerified": false,
+    "verifiedType": "Business",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/361289499/1792528370",
+    "description": "The Most Trusted Voice In #Bitcoin 🟠 • Find us https://t.co/X4mXn4fvYQ",
+    "location": "Nashville, TN",
+    "followers": 4509476,
+    "following": 1241,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 24 15:14:54 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/btcinc",
+            "expanded_url": "http://linktr.ee/btcinc",
+            "indices": [
+              47,
+              70
+            ],
+            "url": "https://t.co/X4mXn4fvYQ"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "BitcoinMagazine.com",
+            "expanded_url": "http://BitcoinMagazine.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/UPj0DCrpdu"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 45892,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 20840,
+    "statusesCount": 46103,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2113625700553134245"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 580,
+          "name": "Media & News Company"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1539690895368388612"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/41YlJW2GOb",
+        "expanded_url": "https://x.com/BitcoinMagazine/status/2107906745603620968/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2107906352576163840",
+        "indices": [
+          108,
+          131
+        ],
+        "media_key": "3_2107906352576163840",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107906352576163840"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUDJqNUXcAAZA9U.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 318,
+              "w": 568,
+              "x": 0,
+              "y": 83
+            },
+            {
+              "h": 568,
+              "w": 568,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 570,
+              "w": 500,
+              "x": 34,
+              "y": 0
+            },
+            {
+              "h": 570,
+              "w": 285,
+              "x": 142,
+              "y": 0
+            },
+            {
+              "h": 570,
+              "w": 568,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 570,
+          "width": 568
+        },
+        "sizes": {
+          "large": {
+            "h": 570,
+            "resize": "fit",
+            "w": 568
+          },
+          "medium": {
+            "h": 570,
+            "resize": "fit",
+            "w": 568
+          },
+          "small": {
+            "h": 570,
+            "resize": "fit",
+            "w": 568
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/41YlJW2GOb"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/41YlJW2GOb",
+        "expanded_url": "https://x.com/BitcoinMagazine/status/2107906745603620968/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2107906363347091456",
+        "indices": [
+          108,
+          131
+        ],
+        "media_key": "3_2107906363347091456",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107906363347091456"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUDJq1cWwAAXdyE.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 269,
+              "w": 480,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 476,
+              "w": 476,
+              "x": 4,
+              "y": 0
+            },
+            {
+              "h": 476,
+              "w": 418,
+              "x": 43,
+              "y": 0
+            },
+            {
+              "h": 476,
+              "w": 238,
+              "x": 133,
+              "y": 0
+            },
+            {
+              "h": 476,
+              "w": 480,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 476,
+          "width": 480
+        },
+        "sizes": {
+          "large": {
+            "h": 476,
+            "resize": "fit",
+            "w": 480
+          },
+          "medium": {
+            "h": 476,
+            "resize": "fit",
+            "w": 480
+          },
+          "small": {
+            "h": 476,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/41YlJW2GOb"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/41YlJW2GOb",
+        "expanded_url": "https://x.com/BitcoinMagazine/status/2107906745603620968/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2107906352576163840",
+        "indices": [
+          108,
+          131
+        ],
+        "media_key": "3_2107906352576163840",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107906352576163840"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUDJqNUXcAAZA9U.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 318,
+              "w": 568,
+              "x": 0,
+              "y": 83
+            },
+            {
+              "h": 568,
+              "w": 568,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 570,
+              "w": 500,
+              "x": 34,
+              "y": 0
+            },
+            {
+              "h": 570,
+              "w": 285,
+              "x": 142,
+              "y": 0
+            },
+            {
+              "h": 570,
+              "w": 568,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 570,
+          "width": 568
+        },
+        "sizes": {
+          "large": {
+            "h": 570,
+            "resize": "fit",
+            "w": 568
+          },
+          "medium": {
+            "h": 570,
+            "resize": "fit",
+            "w": 568
+          },
+          "small": {
+            "h": 570,
+            "resize": "fit",
+            "w": 568
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/41YlJW2GOb"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/41YlJW2GOb",
+        "expanded_url": "https://x.com/BitcoinMagazine/status/2107906745603620968/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2107906363347091456",
+        "indices": [
+          108,
+          131
+        ],
+        "media_key": "3_2107906363347091456",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107906363347091456"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUDJq1cWwAAXdyE.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 269,
+              "w": 480,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 476,
+              "w": 476,
+              "x": 4,
+              "y": 0
+            },
+            {
+              "h": 476,
+              "w": 418,
+              "x": 43,
+              "y": 0
+            },
+            {
+              "h": 476,
+              "w": 238,
+              "x": 133,
+              "y": 0
+            },
+            {
+              "h": 476,
+              "w": 480,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 476,
+          "width": 480
+        },
+        "sizes": {
+          "large": {
+            "h": 476,
+            "resize": "fit",
+            "w": 480
+          },
+          "medium": {
+            "h": 476,
+            "resize": "fit",
+            "w": 480
+          },
+          "small": {
+            "h": 476,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/41YlJW2GOb"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HUDJqNUXcAAZA9U.png",
+    "https://pbs.twimg.com/media/HUDJq1cWwAAXdyE.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2107870530426790084",
+  "url": "https://x.com/BitcoinMagazine/status/2107870530426790084",
+  "twitterUrl": "https://twitter.com/BitcoinMagazine/status/2107870530426790084",
+  "text": "BREAKING: 🇺🇸 US Treasury Department to buy back up to $6 billion in longer-term debt tomorrow 👀  \n\nBuy Bitcoin 🚀 https://t.co/l5RSWDK3gt",
+  "fullText": "BREAKING: 🇺🇸 US Treasury Department to buy back up to $6 billion in longer-term debt tomorrow 👀  \n\nBuy Bitcoin 🚀 https://t.co/l5RSWDK3gt",
+  "source": "",
+  "retweetCount": 323,
+  "replyCount": 73,
+  "likeCount": 2185,
+  "quoteCount": 16,
+  "viewCount": 183485,
+  "createdAt": "Wed Oct 07 16:27:51 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 42,
+  "isReply": false,
+  "conversationId": "2107870530426790084",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "BitcoinMagazine",
+    "url": "https://x.com/BitcoinMagazine",
+    "twitterUrl": "https://twitter.com/BitcoinMagazine",
+    "id": "361289499",
+    "name": "Bitcoin Magazine",
+    "isVerified": false,
+    "verifiedType": "Business",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/361289499/1792528370",
+    "description": "The Most Trusted Voice In #Bitcoin 🟠 • Find us https://t.co/X4mXn4fvYQ",
+    "location": "Nashville, TN",
+    "followers": 4509476,
+    "following": 1241,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 24 15:14:54 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/btcinc",
+            "expanded_url": "http://linktr.ee/btcinc",
+            "indices": [
+              47,
+              70
+            ],
+            "url": "https://t.co/X4mXn4fvYQ"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "BitcoinMagazine.com",
+            "expanded_url": "http://BitcoinMagazine.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/UPj0DCrpdu"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 45892,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 20840,
+    "statusesCount": 46103,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2113625700553134245"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 580,
+          "name": "Media & News Company"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1539690895368388612"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/l5RSWDK3gt",
+        "expanded_url": "https://x.com/BitcoinMagazine/status/2107870530426790084/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2107869635571781632",
+        "indices": [
+          113,
+          136
+        ],
+        "media_key": "3_2107869635571781632",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107869635571781632"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUCoQ_0WkAAZX0_.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 772,
+              "w": 1378,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1276,
+              "w": 1276,
+              "x": 51,
+              "y": 0
+            },
+            {
+              "h": 1276,
+              "w": 1119,
+              "x": 130,
+              "y": 0
+            },
+            {
+              "h": 1276,
+              "w": 638,
+              "x": 370,
+              "y": 0
+            },
+            {
+              "h": 1276,
+              "w": 1378,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1276,
+          "width": 1378
+        },
+        "sizes": {
+          "large": {
+            "h": 1276,
+            "resize": "fit",
+            "w": 1378
+          },
+          "medium": {
+            "h": 1111,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 630,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/l5RSWDK3gt"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/l5RSWDK3gt",
+        "expanded_url": "https://x.com/BitcoinMagazine/status/2107870530426790084/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2107869635571781632",
+        "indices": [
+          113,
+          136
+        ],
+        "media_key": "3_2107869635571781632",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107869635571781632"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUCoQ_0WkAAZX0_.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 772,
+              "w": 1378,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1276,
+              "w": 1276,
+              "x": 51,
+              "y": 0
+            },
+            {
+              "h": 1276,
+              "w": 1119,
+              "x": 130,
+              "y": 0
+            },
+            {
+              "h": 1276,
+              "w": 638,
+              "x": 370,
+              "y": 0
+            },
+            {
+              "h": 1276,
+              "w": 1378,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1276,
+          "width": 1378
+        },
+        "sizes": {
+          "large": {
+            "h": 1276,
+            "resize": "fit",
+            "w": 1378
+          },
+          "medium": {
+            "h": 1111,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 630,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/l5RSWDK3gt"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HUCoQ_0WkAAZX0_.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2107861120341942548",
+  "url": "https://x.com/camolNFT/status/2107861120341942548",
+  "twitterUrl": "https://twitter.com/camolNFT/status/2107861120341942548",
+  "text": "If you own crypto, this is genuinely scary.\n\nA top bitcoin researcher, who actively works at the Ethereum foundation, is telling us to move our crypto to a bunker.\n\nHe thinks there is now a reasonable possibility that superhuman AI discovers a way to break the cryptography securing Bitcoin and Ethereum before quantum computers do.\n\nThat sounds insane, but there’s some important context.\n\nBitcoin and Ethereum rely heavily on ECDSA. At a very basic level, your wallet has a private key, and mathematics allows you to derive a public key from it.\n\nGoing forward is easy.\nGoing backward and figuring out the private key from the public information is considered effectively impossible.\n\nA huge amount of crypto security rests on that assumption.\n\nDrake is worried that AI could discover some completely new mathematical shortcut that changes it.\n\nWhy is he worried about this now?\n\nAI has made some pretty ridiculous advances in mathematics this year.\n\nEarlier this year, an OpenAI model autonomously disproved a famous Erdős conjecture dating back around 80 years, using mathematical techniques researchers hadn’t expected.\n\nThen, literally the day before Drake made this post, OpenAI released hundreds of AI-generated mathematical results across hundreds of problem families.\n\nOne of those results broke through a longstanding assumption involving the complexity of integer multiplication.\n\nThat does NOT mean AI broke ECDSA.\n\nIt didn’t.\nThe signal is that AI is increasingly demonstrating an ability to find novel approaches to mathematical problems humans have studied for decades.\n\nAt the same time, researchers have been making progress on the other threat: quantum computers.\n\nEstimates for the resources required to attack elliptic-curve cryptography have fallen significantly, and researchers, including Drake himself, have been working on making those attacks more efficient.\n\nSo his concern is basically:\nWhat if everyone is preparing for quantum computers to eventually break ECDSA, but superhuman AI discovers a mathematical shortcut first?\n\nThat’s the part he thinks the crypto industry isn't sufficiently prepared for.\n\nIf ECDSA were efficiently broken, the consequences could obviously be catastrophic. Depending on the attack and what information an address has exposed, an attacker could potentially recover private keys and steal funds.\n\nDrake isn't saying this has happened.\nHe isn't even saying it's definitely going to happen.\n\nHe's saying that recent AI progress has moved the probability from something he could comfortably ignore to something worth preparing for.\n\nHis recommendation is surprisingly simple.\n\nIf you're a major holder, exchange, custodian, ETF, treasury, etc., consider moving assets from heavily used addresses into fresh addresses that have never signed a transaction.\n\nThen don't use those addresses.\n\nThat limits the cryptographic information you've exposed and potentially buys you additional protection if a vulnerability is suddenly discovered.\n\nFor the really large players, he thinks the industry should begin preparing to move beyond ECDSA entirely and toward post-quantum / hash-based cryptography.\n\nThe downside is enormous, the precautions are relatively cheap, and AI progress is moving fast enough that waiting until an attack exists may be too late.\n\nHe thinks it's now reasonable to consider the possibility that ECDSA could break before AGI/Q-Day, potentially on a timeline of months rather than years.\n\nNothing publicly known can currently do this.\nBut his argument is essentially:\n\nFor decades we've protected trillions of dollars with mathematical problems because humans couldn't figure out how to solve them efficiently.\n\nWe're now building machines that may become much better at mathematics than humans.\n\nMaybe it's time to stop assuming those two facts can coexist forever.",
+  "fullText": "If you own crypto, this is genuinely scary.\n\nA top bitcoin researcher, who actively works at the Ethereum foundation, is telling us to move our crypto to a bunker.\n\nHe thinks there is now a reasonable possibility that superhuman AI discovers a way to break the cryptography https://t.co/ixvc1Op0IG",
+  "source": "",
+  "retweetCount": 236,
+  "replyCount": 468,
+  "likeCount": 2871,
+  "quoteCount": 90,
+  "viewCount": 781627,
+  "createdAt": "Wed Oct 07 15:50:27 +0000 2026",
+  "lang": "en",
+  "quoteId": "2107837081313505768",
+  "bookmarkCount": 2721,
+  "isReply": false,
+  "conversationId": "2107861120341942548",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "camolNFT",
+    "url": "https://x.com/camolNFT",
+    "twitterUrl": "https://twitter.com/camolNFT",
+    "id": "1387820020403740674",
+    "name": "camol",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2095858276814712832/SQitqRT-_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1387820020403740674/1757813781",
+    "description": "growth @katana • ex. zynga • be kind, but also be hilarious online",
+    "location": "",
+    "followers": 74385,
+    "following": 19653,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 29 17:24:19 +0000 2021",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 290264,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 12695,
+    "statusesCount": 153733,
+    "affiliatesHighlightedLabel": {
+      "label": {
+        "badge": {
+          "url": "https://pbs.twimg.com/profile_images/1927769809216843776/IJexy9VY_bigger.jpg"
+        },
+        "description": "Katana ⚔️",
+        "url": {
+          "url": "https://twitter.com/katana",
+          "urlType": "DeepLink"
+        },
+        "userLabelDisplayType": "Badge",
+        "userLabelType": "BusinessLabel"
+      }
+    },
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2090482298516886007"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/ixvc1Op0IG",
+        "expanded_url": "https://x.com/camolNFT/status/2107861120341942548/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 51,
+                "w": 51,
+                "x": 181,
+                "y": 793
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 44,
+                "w": 44,
+                "x": 156,
+                "y": 685
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 51,
+                "w": 51,
+                "x": 181,
+                "y": 793
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 24,
+                "w": 24,
+                "x": 88,
+                "y": 388
+              }
+            ]
+          }
+        },
+        "id_str": "2107861112658018304",
+        "indices": [
+          274,
+          297
+        ],
+        "media_key": "3_2107861112658018304",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107861112658018304"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUCgg5fXQAAp7Ky.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 489,
+              "w": 874,
+              "x": 0,
+              "y": 900
+            },
+            {
+              "h": 874,
+              "w": 874,
+              "x": 0,
+              "y": 515
+            },
+            {
+              "h": 996,
+              "w": 874,
+              "x": 0,
+              "y": 393
+            },
+            {
+              "h": 1389,
+              "w": 695,
+              "x": 179,
+              "y": 0
+            },
+            {
+              "h": 1389,
+              "w": 874,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1389,
+          "width": 874
+        },
+        "sizes": {
+          "large": {
+            "h": 1389,
+            "resize": "fit",
+            "w": 874
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 755
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 428
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/ixvc1Op0IG"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2107837081313505768",
+    "text": "Today I call upon the blockchain industry to calmly begin planning for \"bunker mode\". My personal recommendation is to set in motion a controlled mass migration of assets to fresh addresses, i.e. addresses whose pubkeys remain hidden behind a hash.\n\nHolders, starting with large and sophisticated ones, should consider moving the bulk of their funds to addresses that have never signed a transaction. And when they do sign one, they should also move remaining funds to a new address (possibly generated from the same seed phrase).\n\nDon't rush. While I believe there is cause for action a rushed migration would do more harm than good. Don't panic either. Moving assets to protected addresses is a simple, preventative step which does not require new cryptography or new wallets.\n\nIMO it is now reasonable to brace for the possibility that ECDSA breaks before qday, in the worst case in months not years. By \"break\" I mean fast private key recovery (e.g. in one week) on available hardware (e.g. a large GPU cluster).\n\nRecent days have been humbling for human mathematical intuition. Long-held, unquestioned hypotheses have fallen. This includes the n log(n) bound for integer multiplication and the 3SUM conjecture. In hindsight, May's unexpected disproof of the Erdős unit distance conjecture was our warning shot.\n\nYesterday's OpenAI drop made it clear that mathematical superintelligence is upon us. They say there are weeks where decades happen. We are about to live through weeks where centuries of mathematical progress happen. Could our magic 64-byte ECDSA signatures be too good to be true? Was it just security through obscurity all this time?\n\nElliptic curves feel especially vulnerable to superintelligence. Curves carry rich structure, with room for fancy tricks like Schoof, Frobenius, pairings. (By contrast, hashes are designed to minimise algebraic structure.)\n\nSeparately, as Ewin Tang can attest, an efficient quantum algorithm sometimes foreshadows an efficient classical one. We should be open to the possibility of a classical counterpart to Shor that breaks elliptic curves and RSA at once.\n\nAlso noteworthy is the striking under-representation of cryptographic breakthroughs among the 722 mathematical results OpenAI published. I've witnessed first-hand the US government censoring academic quantum cryptanalysis results. Backroom interventionism is my base case.\n\nI urge large, sophisticated actors to lead by example. Project11's \"risq list\" (bitcoin-risq-list.projecteleven[.]com) is a great tracker of exposed BTC pubkeys. Binance, Bitbank, Robinhood, Bitfinex, and Tether have an opportunity to harden their cold storage. Next month I'll address institutions in London in a live Q&A (forum.ethereuminstitutional[.]org/london-2026).\n\nAgain, please do not rush. Wallets holding under 50 BTC enjoy partial cover from \"Satoshi's shield\", i.e. his 20K exposed addresses that hold 50 BTC each. Load-bearing signers like oracles and L2 security councils should consider rotating ECDSA pubkeys with every signed message and/or multi-signing with a hash-based schemes like SPHINCS.\n\nExiting bunker mode safely will require post-AI cryptography. My inclination is to go all-in on hash-based cryptography and avoid structured mathematical assumptions entirely, whether from curves, lattices, or isogenies. A single battle-tested hash (e.g. from the SHA or BLAKE families) yields plausible post-AI security.\n\nThe Ethereum roadmap on strawmap[.]org fully embraces hash-based cryptography with end-to-end formal verification as a response to the quantum threat. Those timelines must now be revisited and accelerated in light of mathematical superintelligence. I'll be pushing for maximum defensive acceleration.",
+    "source": "",
+    "retweetCount": 6279,
+    "replyCount": 5958,
+    "likeCount": 25587,
+    "quoteCount": 2290,
+    "viewCount": 6650706,
+    "createdAt": "Wed Oct 07 14:14:56 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 12818,
+    "author": {
+      "type": "user",
+      "userName": "drakefjustin",
+      "url": "https://x.com/drakefjustin",
+      "twitterUrl": "https://twitter.com/drakefjustin",
+      "id": "258480276",
+      "name": "Justin Drake",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1812007963059441664/al_wakzq_normal.jpg",
+      "coverPicture": "",
+      "description": "Bitcoin security researcher",
+      "location": "🌋☢️⚡",
+      "followers": 169678,
+      "following": 311,
+      "protected": false,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sun Feb 27 20:34:12 +0000 2011",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 6495,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 141,
+      "statusesCount": 1485,
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "media": [
+    "https://pbs.twimg.com/media/HUCgg5fXQAAp7Ky.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2107837081313505768",
+  "url": "https://x.com/drakefjustin/status/2107837081313505768",
+  "twitterUrl": "https://twitter.com/drakefjustin/status/2107837081313505768",
+  "text": "Today I call upon the blockchain industry to calmly begin planning for \"bunker mode\". My personal recommendation is to set in motion a controlled mass migration of assets to fresh addresses, i.e. addresses whose pubkeys remain hidden behind a hash.\n\nHolders, starting with large and sophisticated ones, should consider moving the bulk of their funds to addresses that have never signed a transaction. And when they do sign one, they should also move remaining funds to a new address (possibly generated from the same seed phrase).\n\nDon't rush. While I believe there is cause for action a rushed migration would do more harm than good. Don't panic either. Moving assets to protected addresses is a simple, preventative step which does not require new cryptography or new wallets.\n\nIMO it is now reasonable to brace for the possibility that ECDSA breaks before qday, in the worst case in months not years. By \"break\" I mean fast private key recovery (e.g. in one week) on available hardware (e.g. a large GPU cluster).\n\nRecent days have been humbling for human mathematical intuition. Long-held, unquestioned hypotheses have fallen. This includes the n log(n) bound for integer multiplication and the 3SUM conjecture. In hindsight, May's unexpected disproof of the Erdős unit distance conjecture was our warning shot.\n\nYesterday's OpenAI drop made it clear that mathematical superintelligence is upon us. They say there are weeks where decades happen. We are about to live through weeks where centuries of mathematical progress happen. Could our magic 64-byte ECDSA signatures be too good to be true? Was it just security through obscurity all this time?\n\nElliptic curves feel especially vulnerable to superintelligence. Curves carry rich structure, with room for fancy tricks like Schoof, Frobenius, pairings. (By contrast, hashes are designed to minimise algebraic structure.)\n\nSeparately, as Ewin Tang can attest, an efficient quantum algorithm sometimes foreshadows an efficient classical one. We should be open to the possibility of a classical counterpart to Shor that breaks elliptic curves and RSA at once.\n\nAlso noteworthy is the striking under-representation of cryptographic breakthroughs among the 722 mathematical results OpenAI published. I've witnessed first-hand the US government censoring academic quantum cryptanalysis results. Backroom interventionism is my base case.\n\nI urge large, sophisticated actors to lead by example. Project11's \"risq list\" (bitcoin-risq-list.projecteleven[.]com) is a great tracker of exposed BTC pubkeys. Binance, Bitbank, Robinhood, Bitfinex, and Tether have an opportunity to harden their cold storage. Next month I'll address institutions in London in a live Q&A (forum.ethereuminstitutional[.]org/london-2026).\n\nAgain, please do not rush. Wallets holding under 50 BTC enjoy partial cover from \"Satoshi's shield\", i.e. his 20K exposed addresses that hold 50 BTC each. Load-bearing signers like oracles and L2 security councils should consider rotating ECDSA pubkeys with every signed message and/or multi-signing with a hash-based schemes like SPHINCS.\n\nExiting bunker mode safely will require post-AI cryptography. My inclination is to go all-in on hash-based cryptography and avoid structured mathematical assumptions entirely, whether from curves, lattices, or isogenies. A single battle-tested hash (e.g. from the SHA or BLAKE families) yields plausible post-AI security.\n\nThe Ethereum roadmap on strawmap[.]org fully embraces hash-based cryptography with end-to-end formal verification as a response to the quantum threat. Those timelines must now be revisited and accelerated in light of mathematical superintelligence. I'll be pushing for maximum defensive acceleration.",
+  "fullText": "Today I call upon the blockchain industry to calmly begin planning for \"bunker mode\". My personal recommendation is to set in motion a controlled mass migration of assets to fresh addresses, i.e. addresses whose pubkeys remain hidden behind a hash.\n\nHolders, starting with large",
+  "source": "",
+  "retweetCount": 6279,
+  "replyCount": 5958,
+  "likeCount": 25587,
+  "quoteCount": 2290,
+  "viewCount": 6650706,
+  "createdAt": "Wed Oct 07 14:14:56 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 12818,
+  "isReply": false,
+  "conversationId": "2107837081313505768",
+  "author": {
+    "type": "user",
+    "userName": "drakefjustin",
+    "url": "https://x.com/drakefjustin",
+    "twitterUrl": "https://twitter.com/drakefjustin",
+    "id": "258480276",
+    "name": "Justin Drake",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1812007963059441664/al_wakzq_normal.jpg",
+    "coverPicture": "",
+    "description": "Bitcoin security researcher",
+    "location": "🌋☢️⚡",
+    "followers": 169678,
+    "following": 311,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 27 20:34:12 +0000 2011",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6495,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 141,
+    "statusesCount": 1485,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2107830917716902301",
+  "url": "https://x.com/WatcherGuru/status/2107830917716902301",
+  "twitterUrl": "https://twitter.com/WatcherGuru/status/2107830917716902301",
+  "text": "JUST IN: Bitcoin falls under $83,000 https://t.co/XGJw3mC3d5",
+  "fullText": "JUST IN: Bitcoin falls under $83,000 https://t.co/XGJw3mC3d5",
+  "source": "",
+  "retweetCount": 281,
+  "replyCount": 339,
+  "likeCount": 3503,
+  "quoteCount": 74,
+  "viewCount": 331238,
+  "createdAt": "Wed Oct 07 13:50:27 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 37,
+  "isReply": false,
+  "conversationId": "2107830917716902301",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "WatcherGuru",
+    "url": "https://x.com/WatcherGuru",
+    "twitterUrl": "https://twitter.com/WatcherGuru",
+    "id": "1387497871751196672",
+    "name": "Watcher.Guru",
+    "isVerified": false,
+    "verifiedType": "Business",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1387497871751196672/1672776767",
+    "description": "Watcher Guru gives you unparalleled, unbiased coverage of all-things crypto & finance in real-time | Posts Are Not Financial Advice | @BTCPrice",
+    "location": "Texas, USA",
+    "followers": 4909170,
+    "following": 3,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 28 20:04:12 +0000 2021",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "watcher.guru",
+            "expanded_url": "https://watcher.guru",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/tUTSayKve7"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 40679,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4936,
+    "statusesCount": 20352,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1572324773090234370"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 579,
+          "name": "Media & News"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1455303640453890067"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/XGJw3mC3d5",
+        "expanded_url": "https://x.com/WatcherGuru/status/2107830917716902301/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2107830910066524160",
+        "indices": [
+          37,
+          60
+        ],
+        "media_key": "3_2107830910066524160",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107830910066524160"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUCFC4EagAAm6-T.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 898,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 512,
+              "x": 12,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1024,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/XGJw3mC3d5"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/XGJw3mC3d5",
+        "expanded_url": "https://x.com/WatcherGuru/status/2107830917716902301/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2107830910066524160",
+        "indices": [
+          37,
+          60
+        ],
+        "media_key": "3_2107830910066524160",
+        "media_results": {
+          "result": {
+            "media_key": "3_2107830910066524160"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HUCFC4EagAAm6-T.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 898,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 512,
+              "x": 12,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1024,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 1536
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/XGJw3mC3d5"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HUCFC4EagAAm6-T.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2107796831585591474",
+  "url": "https://x.com/cryptorover/status/2107796831585591474",
+  "twitterUrl": "https://twitter.com/cryptorover/status/2107796831585591474",
+  "text": "The Bitcoin 4-year cycle bottom never happened.\n\nBitcoin broke the cycle! \n\nSo, will this be the supercycle? https://t.co/1ggSrQE4CJ",
+  "fullText": "The Bitcoin 4-year cycle bottom never happened.\n\nBitcoin broke the cycle! \n\nSo, will this be the supercycle? https://t.co/1ggSrQE4CJ",
+  "source": "",
+  "retweetCount": 117,
+  "replyCount": 156,
+  "likeCount": 1774,
+  "quoteCount": 13,
+  "viewCount": 191589,
+  "createdAt": "Wed Oct 07 11:35:00 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 137,
+  "isReply": false,
+  "conversationId": "2107796831585591474",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "cryptorover",
+    "url": "https://x.com/cryptorover",
+    "twitterUrl": "https://twitter.com/cryptorover",
+    "id": "1353384573435056128",
+    "name": "Crypto Rover",
+    "isVerified": false,
+    "verifiedType": "Business",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1891433835675475969/J-TloTb6_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1353384573435056128/1782545388",
+    "description": "#Bitcoin Crypto YouTuber (200K+ SUBS) | TG: cryptoroveryt | Cryptocurrency investments are high risk, volatile, and can be dangerous. All tweets are NFA.",
+    "location": "Bitcoin 🤩🌙",
+    "followers": 1619393,
+    "following": 586,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 24 16:50:08 +0000 2021",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "crypto-rover.com",
+            "expanded_url": "https://www.crypto-rover.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/NyhVitUetT"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 101816,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 46928,
+    "statusesCount": 74133,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2114256881917079695"
+    ],
+    "professional": {
+      "category": [],
+      "professional_type": "Creator",
+      "rest_id": "1465277682053230592"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.x.com/1ggSrQE4CJ",
+        "expanded_url": "https://x.com/cryptorover/status/2107796831585591474/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2107760576600391680",
+        "indices": [
+          109,
+          132
+        ],
+        "media_key": "13_2107760576600391680",
+        "media_results": {
+          "result": {
+            "media_key": "13_2107760576600391680"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2107760576600391680/img/w1uo6uAVm8XD0ft9.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 2160,
+          "width": 3436
+        },
+        "sizes": {
+          "large": {
+            "h": 1287,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 754,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 427,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/1ggSrQE4CJ",
+        "video_info": {
+          "aspect_ratio": [
+            859,
+            540
+          ],
+          "duration_millis": 12333,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/pl/faAKEBlm8JM7b5h4.m3u8?tag=29"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/428x270/Oygmwnu2VnXLJC41.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/572x360/3uQrvsjRqGErkjJB.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/1144x720/U4mipgpCsnIiNacA.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/1718x1080/tbqmShFrJ2_Kh-Zz.mp4?tag=29"
+            },
+            {
+              "bitrate": 25128000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/3436x2160/JGKWM-3biKGO3awa.mp4?tag=29"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.x.com/1ggSrQE4CJ",
+        "expanded_url": "https://x.com/cryptorover/status/2107796831585591474/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2107760576600391680",
+        "indices": [
+          109,
+          132
+        ],
+        "media_key": "13_2107760576600391680",
+        "media_results": {
+          "result": {
+            "media_key": "13_2107760576600391680"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2107760576600391680/img/w1uo6uAVm8XD0ft9.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 2160,
+          "width": 3436
+        },
+        "sizes": {
+          "large": {
+            "h": 1287,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 754,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 427,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/1ggSrQE4CJ",
+        "video_info": {
+          "aspect_ratio": [
+            859,
+            540
+          ],
+          "duration_millis": 12333,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/pl/faAKEBlm8JM7b5h4.m3u8?tag=29"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/428x270/Oygmwnu2VnXLJC41.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/572x360/3uQrvsjRqGErkjJB.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/1144x720/U4mipgpCsnIiNacA.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/1718x1080/tbqmShFrJ2_Kh-Zz.mp4?tag=29"
+            },
+            {
+              "bitrate": 25128000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/3436x2160/JGKWM-3biKGO3awa.mp4?tag=29"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2107760576600391680/img/w1uo6uAVm8XD0ft9.jpg"
+  ],
+  "videos": [
+    {
+      "durationMillis": 12333,
+      "aspectRatio": [
+        859,
+        540
+      ],
+      "variants": [
+        {
+          "contentType": "application/x-mpegURL",
+          "url": "https://video.twimg.com/amplify_video/2107760576600391680/pl/faAKEBlm8JM7b5h4.m3u8?tag=29"
+        },
+        {
+          "bitrate": 256000,
+          "contentType": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/428x270/Oygmwnu2VnXLJC41.mp4?tag=29"
+        },
+        {
+          "bitrate": 832000,
+          "contentType": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/572x360/3uQrvsjRqGErkjJB.mp4?tag=29"
+        },
+        {
+          "bitrate": 2176000,
+          "contentType": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/1144x720/U4mipgpCsnIiNacA.mp4?tag=29"
+        },
+        {
+          "bitrate": 10368000,
+          "contentType": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/1718x1080/tbqmShFrJ2_Kh-Zz.mp4?tag=29"
+        },
+        {
+          "bitrate": 25128000,
+          "contentType": "video/mp4",
+          "url": "https://video.twimg.com/amplify_video/2107760576600391680/vid/avc1/3436x2160/JGKWM-3biKGO3awa.mp4?tag=29"
+        }
+      ]
+    }
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2107791671475986578",
+  "url": "https://x.com/JohannKerbrat/status/2107791671475986578",
+  "twitterUrl": "https://twitter.com/JohannKerbrat/status/2107791671475986578",
+  "text": "I'm excited to share we're adding $25 million of Bitcoin to our balance sheet. \n\nWe believe firmly in the future of crypto and view this as a strategic move for our overall asset diversification.",
+  "fullText": "I'm excited to share we're adding $25 million of Bitcoin to our balance sheet. \n\nWe believe firmly in the future of crypto and view this as a strategic move for our overall asset diversification.",
+  "source": "",
+  "retweetCount": 179,
+  "replyCount": 230,
+  "likeCount": 2582,
+  "quoteCount": 51,
+  "viewCount": 196481,
+  "createdAt": "Wed Oct 07 11:14:30 +0000 2026",
+  "lang": "en",
+  "quoteId": "2107677063687893339",
+  "bookmarkCount": 73,
+  "isReply": false,
+  "conversationId": "2107791671475986578",
+  "author": {
+    "type": "user",
+    "userName": "JohannKerbrat",
+    "url": "https://x.com/JohannKerbrat",
+    "twitterUrl": "https://twitter.com/JohannKerbrat",
+    "id": "1419089826586918913",
+    "name": "Johann Kerbrat",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1419090083202826241/5O7MOPAz_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1419089826586918913/1677677908",
+    "description": "SVP and GM of International & Crypto @ Robinhood. \nTweets are my own opinion.",
+    "location": "🥐",
+    "followers": 28300,
+    "following": 120,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jul 25 00:20:01 +0000 2021",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 130,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 27,
+    "statusesCount": 402,
+    "affiliatesHighlightedLabel": {
+      "label": {
+        "badge": {
+          "url": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_bigger.png"
+        },
+        "description": "Robinhood",
+        "url": {
+          "url": "https://twitter.com/RobinhoodApp",
+          "urlType": "DeepLink"
+        },
+        "userLabelDisplayType": "Badge",
+        "userLabelType": "BusinessLabel"
+      }
+    },
+    "possiblySensitive": false,
+    "professional": {
+      "category": [],
+      "professional_type": "Creator",
+      "rest_id": "1630934294184046592"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2107677063687893339",
+    "text": "EXCLUSIVE: Robinhood adds $25M USD in Bitcoin to balance sheet https://t.co/kXFqWURvEt",
+    "source": "",
+    "retweetCount": 23,
+    "replyCount": 16,
+    "likeCount": 162,
+    "quoteCount": 16,
+    "viewCount": 149516,
+    "createdAt": "Wed Oct 07 03:39:05 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 11,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "TheBlockCo",
+      "url": "https://x.com/TheBlockCo",
+      "twitterUrl": "https://twitter.com/TheBlockCo",
+      "id": "963767159536209921",
+      "name": "The Block",
+      "isVerified": false,
+      "verifiedType": "Business",
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1944749695525425152/9babG7Df_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/963767159536209921/1765291640",
+      "description": "Industry-leading crypto news, research and data. Get The Daily: https://t.co/Lx7lIuO9sw | AI news: @TheLatentCo",
+      "location": "New York, NY",
+      "followers": 594875,
+      "following": 304,
+      "protected": false,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Wed Feb 14 13:29:31 +0000 2018",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "theblock.co/newsletters/th…",
+              "expanded_url": "http://www.theblock.co/newsletters/the-daily",
+              "indices": [
+                64,
+                87
+              ],
+              "url": "https://t.co/Lx7lIuO9sw"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "theblock.co",
+              "expanded_url": "https://theblock.co/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/AGsTAHbRkj"
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 8503,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 3515,
+      "statusesCount": 56539,
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "2112922044056867271"
+      ],
+      "professional": {
+        "category": [],
+        "professional_type": "Business",
+        "rest_id": "1580273202764259328"
+      }
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/kXFqWURvEt",
+          "expanded_url": "https://x.com/TheBlockCo/status/2107677063687893339/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id_str": "2107677050329079808",
+          "indices": [
+            63,
+            86
+          ],
+          "media_key": "3_2107677050329079808",
+          "media_results": {
+            "result": {
+              "media_key": "3_2107677050329079808"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HT_5HD4boAAn7uS.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1147,
+                "w": 2048,
+                "x": 0,
+                "y": 399
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1796,
+                "x": 126,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 512,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2048,
+            "width": 2048
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/kXFqWURvEt"
+        },
+        {
+          "display_url": "pic.x.com/kXFqWURvEt",
+          "expanded_url": "https://x.com/TheBlockCo/status/2107677063687893339/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 244,
+                  "y": 1244
+                },
+                {
+                  "h": 232,
+                  "w": 232,
+                  "x": 492,
+                  "y": 764
+                },
+                {
+                  "h": 656,
+                  "w": 656,
+                  "x": 908,
+                  "y": 698
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 67,
+                  "w": 67,
+                  "x": 142,
+                  "y": 728
+                },
+                {
+                  "h": 135,
+                  "w": 135,
+                  "x": 288,
+                  "y": 447
+                },
+                {
+                  "h": 384,
+                  "w": 384,
+                  "x": 532,
+                  "y": 408
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 244,
+                  "y": 1244
+                },
+                {
+                  "h": 232,
+                  "w": 232,
+                  "x": 492,
+                  "y": 764
+                },
+                {
+                  "h": 656,
+                  "w": 656,
+                  "x": 908,
+                  "y": 698
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 81,
+                  "y": 413
+                },
+                {
+                  "h": 77,
+                  "w": 77,
+                  "x": 163,
+                  "y": 253
+                },
+                {
+                  "h": 217,
+                  "w": 217,
+                  "x": 301,
+                  "y": 231
+                }
+              ]
+            }
+          },
+          "id_str": "2107677056876384256",
+          "indices": [
+            63,
+            86
+          ],
+          "media_key": "3_2107677056876384256",
+          "media_results": {
+            "result": {
+              "media_key": "3_2107677056876384256"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HT_5HcRbkAAxLH4.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1147,
+                "w": 2048,
+                "x": 0,
+                "y": 901
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1796,
+                "x": 177,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 563,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2048,
+            "width": 2048
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/kXFqWURvEt"
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/kXFqWURvEt",
+          "expanded_url": "https://x.com/TheBlockCo/status/2107677063687893339/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id_str": "2107677050329079808",
+          "indices": [
+            63,
+            86
+          ],
+          "media_key": "3_2107677050329079808",
+          "media_results": {
+            "result": {
+              "media_key": "3_2107677050329079808"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HT_5HD4boAAn7uS.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1147,
+                "w": 2048,
+                "x": 0,
+                "y": 399
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1796,
+                "x": 126,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 512,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2048,
+            "width": 2048
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/kXFqWURvEt"
+        },
+        {
+          "display_url": "pic.x.com/kXFqWURvEt",
+          "expanded_url": "https://x.com/TheBlockCo/status/2107677063687893339/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 244,
+                  "y": 1244
+                },
+                {
+                  "h": 232,
+                  "w": 232,
+                  "x": 492,
+                  "y": 764
+                },
+                {
+                  "h": 656,
+                  "w": 656,
+                  "x": 908,
+                  "y": 698
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 67,
+                  "w": 67,
+                  "x": 142,
+                  "y": 728
+                },
+                {
+                  "h": 135,
+                  "w": 135,
+                  "x": 288,
+                  "y": 447
+                },
+                {
+                  "h": 384,
+                  "w": 384,
+                  "x": 532,
+                  "y": 408
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 244,
+                  "y": 1244
+                },
+                {
+                  "h": 232,
+                  "w": 232,
+                  "x": 492,
+                  "y": 764
+                },
+                {
+                  "h": 656,
+                  "w": 656,
+                  "x": 908,
+                  "y": 698
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 81,
+                  "y": 413
+                },
+                {
+                  "h": 77,
+                  "w": 77,
+                  "x": 163,
+                  "y": 253
+                },
+                {
+                  "h": 217,
+                  "w": 217,
+                  "x": 301,
+                  "y": 231
+                }
+              ]
+            }
+          },
+          "id_str": "2107677056876384256",
+          "indices": [
+            63,
+            86
+          ],
+          "media_key": "3_2107677056876384256",
+          "media_results": {
+            "result": {
+              "media_key": "3_2107677056876384256"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HT_5HcRbkAAxLH4.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1147,
+                "w": 2048,
+                "x": 0,
+                "y": 901
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1796,
+                "x": 177,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 563,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2048,
+            "width": 2048
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/kXFqWURvEt"
+        }
+      ]
+    }
+  },
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+}]

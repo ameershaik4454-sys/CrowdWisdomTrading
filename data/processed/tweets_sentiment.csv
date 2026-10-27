@@ -1,0 +1,120 @@
+text,created_at,username,author_name,likes,reposts,replies,quotes,views,url,url,sentiment_score,sentiment_label
+"0.21 Bitcoin places you among the top 5% of holders.
+
+Only 100M people can ever achieve that goal.
+
+That’s just 1.2% of the world’s population. https://t.co/ehzpYnazi4",2026-10-07 23:16:30+00:00,BitcoinArchive,Bitcoin Archive,2554,373,89,40,196174,https://x.com/BitcoinArchive/status/2107973369861919008,https://twitter.com/BitcoinArchive/status/2107973369861919008,0.2023,positive
+"JUST IN: The supply of Bitcoin available on exchanges has declined to its lowest level in 7 months. 👀
+
+BTC is becoming more scarce, plan accordingly! 🚀 https://t.co/ZT8ZVtS8YS",2026-10-07 21:55:16+00:00,BitcoinMagazine,Bitcoin Magazine,2665,375,153,48,148121,https://x.com/BitcoinMagazine/status/2107952928669528468,https://twitter.com/BitcoinMagazine/status/2107952928669528468,-0.4389,negative
+Bitcoin. Don’t leave home without it. https://t.co/QieNmFMUzU,2026-10-07 19:47:28+00:00,saylor,Michael Saylor,5306,477,383,33,321538,https://x.com/saylor/status/2107920765609812136,https://twitter.com/saylor/status/2107920765609812136,-0.0516,negative
+"JUST IN: $13 trillion Charles Schwab says 64% of Millennials plan to buy Bitcoin &amp; crypto 👀
+
+Bullish! 🚀 https://t.co/41YlJW2GOb",2026-10-07 18:51:45+00:00,BitcoinMagazine,Bitcoin Magazine,2346,288,97,19,138817,https://x.com/BitcoinMagazine/status/2107906745603620968,https://twitter.com/BitcoinMagazine/status/2107906745603620968,0.0,neutral
+"BREAKING: 🇺🇸 US Treasury Department to buy back up to $6 billion in longer-term debt tomorrow 👀  
+
+Buy Bitcoin 🚀 https://t.co/l5RSWDK3gt",2026-10-07 16:27:51+00:00,BitcoinMagazine,Bitcoin Magazine,2185,323,73,16,183485,https://x.com/BitcoinMagazine/status/2107870530426790084,https://twitter.com/BitcoinMagazine/status/2107870530426790084,-0.1779,negative
+"If you own crypto, this is genuinely scary.
+
+A top bitcoin researcher, who actively works at the Ethereum foundation, is telling us to move our crypto to a bunker.
+
+He thinks there is now a reasonable possibility that superhuman AI discovers a way to break the cryptography securing Bitcoin and Ethereum before quantum computers do.
+
+That sounds insane, but there’s some important context.
+
+Bitcoin and Ethereum rely heavily on ECDSA. At a very basic level, your wallet has a private key, and mathematics allows you to derive a public key from it.
+
+Going forward is easy.
+Going backward and figuring out the private key from the public information is considered effectively impossible.
+
+A huge amount of crypto security rests on that assumption.
+
+Drake is worried that AI could discover some completely new mathematical shortcut that changes it.
+
+Why is he worried about this now?
+
+AI has made some pretty ridiculous advances in mathematics this year.
+
+Earlier this year, an OpenAI model autonomously disproved a famous Erdős conjecture dating back around 80 years, using mathematical techniques researchers hadn’t expected.
+
+Then, literally the day before Drake made this post, OpenAI released hundreds of AI-generated mathematical results across hundreds of problem families.
+
+One of those results broke through a longstanding assumption involving the complexity of integer multiplication.
+
+That does NOT mean AI broke ECDSA.
+
+It didn’t.
+The signal is that AI is increasingly demonstrating an ability to find novel approaches to mathematical problems humans have studied for decades.
+
+At the same time, researchers have been making progress on the other threat: quantum computers.
+
+Estimates for the resources required to attack elliptic-curve cryptography have fallen significantly, and researchers, including Drake himself, have been working on making those attacks more efficient.
+
+So his concern is basically:
+What if everyone is preparing for quantum computers to eventually break ECDSA, but superhuman AI discovers a mathematical shortcut first?
+
+That’s the part he thinks the crypto industry isn't sufficiently prepared for.
+
+If ECDSA were efficiently broken, the consequences could obviously be catastrophic. Depending on the attack and what information an address has exposed, an attacker could potentially recover private keys and steal funds.
+
+Drake isn't saying this has happened.
+He isn't even saying it's definitely going to happen.
+
+He's saying that recent AI progress has moved the probability from something he could comfortably ignore to something worth preparing for.
+
+His recommendation is surprisingly simple.
+
+If you're a major holder, exchange, custodian, ETF, treasury, etc., consider moving assets from heavily used addresses into fresh addresses that have never signed a transaction.
+
+Then don't use those addresses.
+
+That limits the cryptographic information you've exposed and potentially buys you additional protection if a vulnerability is suddenly discovered.
+
+For the really large players, he thinks the industry should begin preparing to move beyond ECDSA entirely and toward post-quantum / hash-based cryptography.
+
+The downside is enormous, the precautions are relatively cheap, and AI progress is moving fast enough that waiting until an attack exists may be too late.
+
+He thinks it's now reasonable to consider the possibility that ECDSA could break before AGI/Q-Day, potentially on a timeline of months rather than years.
+
+Nothing publicly known can currently do this.
+But his argument is essentially:
+
+For decades we've protected trillions of dollars with mathematical problems because humans couldn't figure out how to solve them efficiently.
+
+We're now building machines that may become much better at mathematics than humans.
+
+Maybe it's time to stop assuming those two facts can coexist forever.",2026-10-07 15:50:27+00:00,camolNFT,camol,2871,236,468,90,781627,https://x.com/camolNFT/status/2107861120341942548,https://twitter.com/camolNFT/status/2107861120341942548,-0.7024,negative
+"Today I call upon the blockchain industry to calmly begin planning for ""bunker mode"". My personal recommendation is to set in motion a controlled mass migration of assets to fresh addresses, i.e. addresses whose pubkeys remain hidden behind a hash.
+
+Holders, starting with large and sophisticated ones, should consider moving the bulk of their funds to addresses that have never signed a transaction. And when they do sign one, they should also move remaining funds to a new address (possibly generated from the same seed phrase).
+
+Don't rush. While I believe there is cause for action a rushed migration would do more harm than good. Don't panic either. Moving assets to protected addresses is a simple, preventative step which does not require new cryptography or new wallets.
+
+IMO it is now reasonable to brace for the possibility that ECDSA breaks before qday, in the worst case in months not years. By ""break"" I mean fast private key recovery (e.g. in one week) on available hardware (e.g. a large GPU cluster).
+
+Recent days have been humbling for human mathematical intuition. Long-held, unquestioned hypotheses have fallen. This includes the n log(n) bound for integer multiplication and the 3SUM conjecture. In hindsight, May's unexpected disproof of the Erdős unit distance conjecture was our warning shot.
+
+Yesterday's OpenAI drop made it clear that mathematical superintelligence is upon us. They say there are weeks where decades happen. We are about to live through weeks where centuries of mathematical progress happen. Could our magic 64-byte ECDSA signatures be too good to be true? Was it just security through obscurity all this time?
+
+Elliptic curves feel especially vulnerable to superintelligence. Curves carry rich structure, with room for fancy tricks like Schoof, Frobenius, pairings. (By contrast, hashes are designed to minimise algebraic structure.)
+
+Separately, as Ewin Tang can attest, an efficient quantum algorithm sometimes foreshadows an efficient classical one. We should be open to the possibility of a classical counterpart to Shor that breaks elliptic curves and RSA at once.
+
+Also noteworthy is the striking under-representation of cryptographic breakthroughs among the 722 mathematical results OpenAI published. I've witnessed first-hand the US government censoring academic quantum cryptanalysis results. Backroom interventionism is my base case.
+
+I urge large, sophisticated actors to lead by example. Project11's ""risq list"" (bitcoin-risq-list.projecteleven[.]com) is a great tracker of exposed BTC pubkeys. Binance, Bitbank, Robinhood, Bitfinex, and Tether have an opportunity to harden their cold storage. Next month I'll address institutions in London in a live Q&A (forum.ethereuminstitutional[.]org/london-2026).
+
+Again, please do not rush. Wallets holding under 50 BTC enjoy partial cover from ""Satoshi's shield"", i.e. his 20K exposed addresses that hold 50 BTC each. Load-bearing signers like oracles and L2 security councils should consider rotating ECDSA pubkeys with every signed message and/or multi-signing with a hash-based schemes like SPHINCS.
+
+Exiting bunker mode safely will require post-AI cryptography. My inclination is to go all-in on hash-based cryptography and avoid structured mathematical assumptions entirely, whether from curves, lattices, or isogenies. A single battle-tested hash (e.g. from the SHA or BLAKE families) yields plausible post-AI security.
+
+The Ethereum roadmap on strawmap[.]org fully embraces hash-based cryptography with end-to-end formal verification as a response to the quantum threat. Those timelines must now be revisited and accelerated in light of mathematical superintelligence. I'll be pushing for maximum defensive acceleration.",2026-10-07 14:14:56+00:00,drakefjustin,Justin Drake,25587,6279,5958,2290,6650706,https://x.com/drakefjustin/status/2107837081313505768,https://twitter.com/drakefjustin/status/2107837081313505768,0.9929,positive
+"JUST IN: Bitcoin falls under $83,000 https://t.co/XGJw3mC3d5",2026-10-07 13:50:27+00:00,WatcherGuru,Watcher.Guru,3503,281,339,74,331238,https://x.com/WatcherGuru/status/2107830917716902301,https://twitter.com/WatcherGuru/status/2107830917716902301,0.0,neutral
+"The Bitcoin 4-year cycle bottom never happened.
+
+Bitcoin broke the cycle! 
+
+So, will this be the supercycle? https://t.co/1ggSrQE4CJ",2026-10-07 11:35:00+00:00,cryptorover,Crypto Rover,1774,117,156,13,191589,https://x.com/cryptorover/status/2107796831585591474,https://twitter.com/cryptorover/status/2107796831585591474,0.3867,positive
+"I'm excited to share we're adding $25 million of Bitcoin to our balance sheet. 
+
+We believe firmly in the future of crypto and view this as a strategic move for our overall asset diversification.",2026-10-07 11:14:30+00:00,JohannKerbrat,Johann Kerbrat,2582,179,230,51,196481,https://x.com/JohannKerbrat/status/2107791671475986578,https://twitter.com/JohannKerbrat/status/2107791671475986578,0.7269,positive
