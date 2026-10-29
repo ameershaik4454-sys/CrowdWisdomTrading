@@ -1,0 +1,3 @@
+strategy,test_days,initial_capital_USD,final_capital_USD,total_return_pct,sharpe_ratio_annualized,sortino_ratio_annualized,maximum_drawdown_pct,transaction_cost_bps,exposure_pct,position_entries
+"Long-or-cash, 1-day forecast",105,10000.0,13790.734513330677,37.90734513330678,3.0612241566940055,6.392113313303343,-14.75862994107543,10,61.904761904761905,20
+Buy-and-hold benchmark,105,10000.0,14689.510234496567,46.89510234496568,2.92412320823996,5.498046239230046,-17.58537141966796,0,100.0,1
