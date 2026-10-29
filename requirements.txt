@@ -1,4 +1,6 @@
 pandas
+numpy
 matplotlib
 vaderSentiment
 yfinance
+scikit-learn
